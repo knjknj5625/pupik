@@ -1,3 +1,7 @@
-streamlit
-pandas
+streamlit==1.50.0
+pandas==2.0.2
 transformers
+transformers==4.11.3
+sentencepiece==0.2.1
+torch==1.8.1
+h5py==3.7.0
